@@ -24,7 +24,7 @@ set DOCKER_FILE=air_html5-v1.tar
 set DOCKER_IMG=air_html5-v1.base
 
 ::Docker Container 이름
-set DOCKER_CON=air_html5_html5
+set DOCKER_CON=air_html5
 
 ::도커 디렉토리와 Windows PC 디렉토리와의 마운트 경로 지정. Windows PC의 경로 설정방식에 주의할것. 
 set WEBS-LOG=/c/air/log/tomcat-log:/usr/local/tomcat/logs
